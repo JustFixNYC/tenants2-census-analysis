@@ -1,5 +1,11 @@
 ## Quick start
 
+This repository contains scripts that allow us to perform demographic
+statistics on [JustFix.nyc tenant platform][] users based on the census
+tract associated with their BBL.
+
+[JustFix.nyc tenant platform]: https://github.com/justFixNYC/tenants2
+
 ### Install dependencies
 
 ```
@@ -27,6 +33,8 @@ You will need to manually download [PLUTO][] and extract its main CSV to
 
 Then run `python load_pluto.py`.
 
+[PLUTO]: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
+
 ### Download user statistics
 
 You will need to manually download user statistics in JSON format
@@ -45,5 +53,3 @@ To run the analysis, do:
 ```
 sqlite3 data/db.sqlite3 < user_census_stats.sql
 ```
-
-[PLUTO]: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
