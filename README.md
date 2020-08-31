@@ -38,4 +38,12 @@ Copy the file to `data/userstats-with-bbls.json`.
 
 Then run `python load_userstats.py`.
 
+### Run analysis
+
+To run the analysis, do:
+
+```
+sqlite3 data/db.sqlite3 < user_census_stats.sql
+```
+
 [PLUTO]: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
