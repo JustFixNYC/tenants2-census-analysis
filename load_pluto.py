@@ -10,7 +10,6 @@ PLUTO_COLUMNS = {
     'bbl': 'text primary key',
     'borocode': 'integer',
     'tract2010': 'text',
-    'ct2010': 'text',
     'cb2010': 'text',
 }
 
@@ -22,6 +21,13 @@ def main() -> None:
         with open(PLUTO_CSV, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
+                # For some reason, PLUTO adds a '.00000000' to the end of BBLs.
+                row['bbl'] = row['bbl'][:10]
+                row['borocode'] = int(row['borocode'], base=10)  # type: ignore
+                # PLUTO leaves out the suffix if there is none, whereas the Census API
+                # always sets the suffix to 00 in this case, so we'll do it too, which
+                # will make joins easier.
+                row['tract2010'] = f"{row['tract2010']:0<6}"
                 ins.add(row)
 
 
