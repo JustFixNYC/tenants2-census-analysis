@@ -18,11 +18,13 @@ Now edit `.env` as needed.
 
 ### Download Census data
 
- and run `python download_census_data.py`.
+Run `python download_census_data.py`.
 
 ### Download PLUTO data
 
 You will need to manually download [PLUTO][] and extract its main CSV to
 `data/pluto.csv`.
+
+Then run `python load_pluto.py`.
 
 [PLUTO]: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page

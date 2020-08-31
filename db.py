@@ -40,6 +40,12 @@ class Database:
             yield inserter
             inserter.commit()
 
+    @contextmanager
+    def insert_many(self, table_name: str, columns: List[str], rows: List[Dict[str, Any]]):
+        with self.bulk_insert(table_name, columns) as ins:
+            for row in rows:
+                ins.add(row)
+
 
 class BulkInserter:
     def __init__(self, db, table_name: str, columns: List[str], batch_size: int):
