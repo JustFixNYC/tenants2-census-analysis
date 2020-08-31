@@ -27,4 +27,15 @@ You will need to manually download [PLUTO][] and extract its main CSV to
 
 Then run `python load_pluto.py`.
 
+### Download user statistics
+
+You will need to manually download user statistics in JSON format
+from the tenants2 platform. The dataset is called
+"User statistics with BBLs" and can be downloaded from the admin
+interface under the "Download data" tab.
+
+Copy the file to `data/userstats-with-bbls.json`.
+
+Then run `python load_userstats.py`.
+
 [PLUTO]: https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page

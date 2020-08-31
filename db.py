@@ -5,6 +5,10 @@ from contextlib import contextmanager
 from dirs import DATA_DIR
 
 
+# SQLite doesn't have a native boolean type so we'll
+# just implicitly convert them to integers.
+sqlite3.register_adapter(bool, int)
+
 DB_PATH = DATA_DIR / 'db.sqlite3'
 
 
