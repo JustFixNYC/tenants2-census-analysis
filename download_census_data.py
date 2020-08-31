@@ -34,6 +34,7 @@ result = c.acs5st.get(
 for item in result:
     # For some reason some of these are -666,666,666, which must
     # signify something important. We'll just ignore them for now.
+    # For more details, see https://github.com/datamade/census/issues/72.
     hmid = int(item[HOUSEHOLDS_MEDIAN_INCOME_DOLLARS])
     name = item['NAME']
     if hmid > 0:
