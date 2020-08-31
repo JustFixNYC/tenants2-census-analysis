@@ -39,3 +39,5 @@ for item in result:
     name = item['NAME']
     if hmid > 0:
         print(f"${hmid:<8,} {name}")
+
+print(f"{len(result)} total tracts.")
