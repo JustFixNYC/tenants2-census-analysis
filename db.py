@@ -15,6 +15,7 @@ DB_PATH = DATA_DIR / 'db.sqlite3'
 class Database:
     def __init__(self, path):
         self.conn = sqlite3.connect(DB_PATH)
+        self.conn.row_factory = sqlite3.Row
 
     @contextmanager
     def cursor(self):

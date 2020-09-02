@@ -46,10 +46,6 @@ Copy the file to `data/userstats-with-bbls.json`.
 
 Then run `python load_userstats.py`.
 
-### Run analysis
+### Output data and view visualization
 
-To run the analysis, do:
-
-```
-sqlite3 data/db.sqlite3 < user_census_stats.sql
-```
+Run `python output_data.py` and then open `index.html` in your browser.

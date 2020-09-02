@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>JustFix.nyc Tenant Platform Census Analysis</title>
+<h1>JustFix.nyc Tenant Platform Census Analysis</h1>
+<div id="vis"></div>
+<script src="vendor/vega-5.15.0.js"></script>
+<script src="vendor/vega-lite-4.15.0.js"></script>
+<script src="vendor/vega-embed-6.11.1.js"></script>
+<script src="data/data.js"></script>
+<script>
+var spec = {
+  $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+  description: 'boop',
+  width: 640,
+  height: 480,
+  data: {
+    values: data,
+  },
+  layer: [
+    {
+      mark: 'bar',
+      encoding: {
+        x: {
+          bin: {step: 10000},
+          field: "households_median_income_dollars",
+        },
+        y: {
+          aggregate: "count",
+        }
+      }
+    },
+    {
+      mark: 'rule',
+      encoding: {
+        x: {
+          aggregate: 'mean',
+          field: 'households_median_income_dollars',
+          type: 'quantitative',
+        },
+        color: {value: "firebrick"},
+        size: {value: 2},
+      }
+    }
+  ]
+};
+vegaEmbed('#vis', spec);
+</script>
