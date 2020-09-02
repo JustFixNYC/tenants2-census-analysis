@@ -2,6 +2,7 @@
 <meta charset="utf-8">
 <title>JustFix.nyc Tenant Platform Census Analysis</title>
 <h1>JustFix.nyc Tenant Platform Census Analysis</h1>
+<p>This visualization only shows users who are in NYC and have either completed the letter of complaint process (irrespective of whether they want us to send their letter) or generated an HP action packet.</p>
 <div id="vis"></div>
 <script src="vendor/vega-5.15.0.js"></script>
 <script src="vendor/vega-lite-4.15.0.js"></script>
@@ -10,11 +11,18 @@
 <script>
 var spec = {
   $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+  title: "Distribution of median income of user census tracts",
   width: 640,
   height: 480,
   data: {
     values: data,
   },
+  transform: [
+    {
+      // If this changes, make sure to change the human-readable description above.
+      filter: "datum.letter_mail_choice !== null || datum.latest_hp_action_pdf_creation_date !== null"
+    },
+  ],
   layer: [
     {
       mark: 'bar',
