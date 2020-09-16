@@ -1,0 +1,106 @@
+NYCHA BBLs in PLUTO that aren't in our scrape:
+
+3031480053 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3031480053
+3070540001 - BldgClass: Q2 - https://whoownswhat.justfix.nyc/bbl/3070540001
+2024200090 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024200090
+2024020035 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020035
+1018290050 - BldgClass: C1 - https://whoownswhat.justfix.nyc/bbl/1018290050
+2022810060 - BldgClass: D1 - https://whoownswhat.justfix.nyc/bbl/2022810060
+2024099002 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024099002
+2024020017 - BldgClass: Y2 - https://whoownswhat.justfix.nyc/bbl/2024020017
+2024200170 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024200170
+1017880038 - BldgClass: V1 - https://whoownswhat.justfix.nyc/bbl/1017880038
+2024209172 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024209172
+3070150035 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/3070150035
+2035150045 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2035150045
+2024200174 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024200174
+2024020009 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020009
+2030940018 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2030940018
+1016740010 - BldgClass: D7 - https://whoownswhat.justfix.nyc/bbl/1016740010
+1018290038 - BldgClass: C1 - https://whoownswhat.justfix.nyc/bbl/1018290038
+3021450027 - BldgClass: Q2 - https://whoownswhat.justfix.nyc/bbl/3021450027
+1017880009 - BldgClass: Y2 - https://whoownswhat.justfix.nyc/bbl/1017880009
+3014580052 - BldgClass: D3 - https://whoownswhat.justfix.nyc/bbl/3014580052
+3031480001 - BldgClass: Y2 - https://whoownswhat.justfix.nyc/bbl/3031480001
+3031480050 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3031480050
+4158900069 - BldgClass: V1 - https://whoownswhat.justfix.nyc/bbl/4158900069
+4115720080 - BldgClass: U9 - https://whoownswhat.justfix.nyc/bbl/4115720080
+3031480049 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3031480049
+3031480051 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3031480051
+2024200001 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024200001
+3035490033 - BldgClass: C1 - https://whoownswhat.justfix.nyc/bbl/3035490033
+1003870017 - BldgClass: C2 - https://whoownswhat.justfix.nyc/bbl/1003870017
+2035150020 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2035150020
+2024200025 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024200025
+1020330001 - BldgClass: Y2 - https://whoownswhat.justfix.nyc/bbl/1020330001
+4004900060 - BldgClass: V1 - https://whoownswhat.justfix.nyc/bbl/4004900060
+4160010002 - BldgClass: D3 - https://whoownswhat.justfix.nyc/bbl/4160010002
+2024099001 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024099001
+2024200035 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024200035
+3014700148 - BldgClass: V2 - https://whoownswhat.justfix.nyc/bbl/3014700148
+2024200171 - BldgClass: Z9 - https://whoownswhat.justfix.nyc/bbl/2024200171
+2030940045 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2030940045
+3031480013 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3031480013
+2024020036 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020036
+2029880017 - BldgClass: Q1 - https://whoownswhat.justfix.nyc/bbl/2029880017
+2022910101 - BldgClass: V1 - https://whoownswhat.justfix.nyc/bbl/2022910101
+2030940040 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2030940040
+3033160103 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/3033160103
+3033340050 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/3033340050
+2029880005 - BldgClass: Q2 - https://whoownswhat.justfix.nyc/bbl/2029880005
+2029880015 - BldgClass: Q1 - https://whoownswhat.justfix.nyc/bbl/2029880015
+2024200172 - BldgClass: Q2 - https://whoownswhat.justfix.nyc/bbl/2024200172
+2024020032 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020032
+2027500030 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2027500030
+2024020011 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020011
+2024020033 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020033
+2024200089 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024200089
+2029880002 - BldgClass: Q2 - https://whoownswhat.justfix.nyc/bbl/2029880002
+3070150030 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3070150030
+1022150623 - BldgClass: D3 - https://whoownswhat.justfix.nyc/bbl/1022150623
+4124520148 - BldgClass: U7 - https://whoownswhat.justfix.nyc/bbl/4124520148
+1022150116 - BldgClass: D9 - https://whoownswhat.justfix.nyc/bbl/1022150116
+1003890024 - BldgClass: D3 - https://whoownswhat.justfix.nyc/bbl/1003890024
+1003920053 - BldgClass: D3 - https://whoownswhat.justfix.nyc/bbl/1003920053
+3070150040 - BldgClass: Y2 - https://whoownswhat.justfix.nyc/bbl/3070150040
+4125290112 - BldgClass: U7 - https://whoownswhat.justfix.nyc/bbl/4125290112
+3070150039 - BldgClass: Y2 - https://whoownswhat.justfix.nyc/bbl/3070150039
+1016710039 - BldgClass: C7 - https://whoownswhat.justfix.nyc/bbl/1016710039
+3017980001 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3017980001
+4159010008 - BldgClass: V1 - https://whoownswhat.justfix.nyc/bbl/4159010008
+2024209039 - BldgClass: V0 - https://whoownswhat.justfix.nyc/bbl/2024209039
+1003780001 - BldgClass: Y2 - https://whoownswhat.justfix.nyc/bbl/1003780001
+2024020031 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020031
+4004900070 - BldgClass: V1 - https://whoownswhat.justfix.nyc/bbl/4004900070
+3037770002 - BldgClass: D6 - https://whoownswhat.justfix.nyc/bbl/3037770002
+4125290100 - BldgClass: U7 - https://whoownswhat.justfix.nyc/bbl/4125290100
+3024770060 - BldgClass: E1 - https://whoownswhat.justfix.nyc/bbl/3024770060
+3031480048 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/3031480048
+2024020012 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020012
+4160020001 - BldgClass: D3 - https://whoownswhat.justfix.nyc/bbl/4160020001
+2024090098 - BldgClass: Q9 - https://whoownswhat.justfix.nyc/bbl/2024090098
+4125290201 - BldgClass: U7 - https://whoownswhat.justfix.nyc/bbl/4125290201
+2024020034 - BldgClass: G7 - https://whoownswhat.justfix.nyc/bbl/2024020034
+
+Total: 81
+
+BBLs in our scrape that aren't owned by NYCHA in PLUTO:
+
+2031430240 - TWIN PARKS WEST (SITES 1 & 2) - BBL is not in PLUTO
+2031430236 - TWIN PARKS WEST (SITES 1 & 2) - BBL is not in PLUTO
+2026780068 - PSS GRANDPARENT FAMILY APARTMENTS - OwnerName: PSSWSF HOUSING COMPANY LP
+1017710066 - PARK AVENUE-EAST 122ND, 123RD STREETS - BBL is not in PLUTO
+2024209078 - MORRISANIA AIR RIGHTS - BBL is not in PLUTO
+2024209020 - MORRISANIA AIR RIGHTS - BBL is not in PLUTO
+2024099059 - MORRISANIA AIR RIGHTS - BBL is not in PLUTO
+1016730001 - METRO NORTH PLAZA - OwnerName: 1968 2ND AVE REALTY LLC
+2022150623 - MARBLE HILL - BBL is not in PLUTO
+2022150116 - MARBLE HILL - BBL is not in PLUTO
+1019840033 - MANHATTANVILLE - OwnerName: NYC DEPARTMENT OF EDUCATION
+4111340022 - FHA REPOSSESSED HOUSES (GROUP III) - OwnerName: FARFAN, WILMA
+4110410030 - FHA REPOSSESSED HOUSES (GROUP I) - OwnerName: TIMM, TONYA
+2027500032 - EAST 165TH STREET-BRYANT AVENUE - BBL is not in PLUTO
+3070530013 - CONEY ISLAND I (SITES 4 & 5) - OwnerName: NYC DEPARTMENT OF ENVIRONMENTAL PROTECTION
+3070530012 - CONEY ISLAND I (SITES 4 & 5) - BBL is not in PLUTO
+
+Total: 16
