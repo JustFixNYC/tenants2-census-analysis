@@ -11,6 +11,7 @@ PLUTO_COLUMNS = {
     'borocode': 'integer',
     'tract2010': 'text',
     'ownername': 'text',
+    'bldgclass': 'text',
     'cb2010': 'text',
 }
 
