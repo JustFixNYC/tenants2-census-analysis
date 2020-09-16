@@ -10,6 +10,7 @@ PLUTO_COLUMNS = {
     'bbl': 'text primary key',
     'borocode': 'integer',
     'tract2010': 'text',
+    'ownername': 'text',
     'cb2010': 'text',
 }
 
